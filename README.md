@@ -1,1 +1,1 @@
-# anonimase_syntetic_data
+# anonymization_syntetic_data
